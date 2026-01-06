@@ -46,7 +46,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/imgen.git
+https://github.com/parassawal/ImGen-AI.git
 cd imgen
 ```
 
